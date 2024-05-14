@@ -6,7 +6,7 @@
 
     <div class=" bg-secondary-subtle mb-2">
 
-        <h1 class="text-center text-primary mt-5 mb-0   ">DETTAGLI TRENO</h1>
+        <h2 class="text-center text-primary mt-5 mb-0   ">DETTAGLI TRENO</h2>
 
     </div>
 
