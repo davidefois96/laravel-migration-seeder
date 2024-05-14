@@ -8,9 +8,9 @@
     <!-- Styles -->
     @vite('resources/js/app.js')
 
-    <title>Template</title>
+    <title>Laravel-migration-Seeder</title>
 </head>
-<body>
+<body class=" bg-warning-subtle  ">
     @include('partials.header')
 
     <main>

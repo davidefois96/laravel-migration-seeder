@@ -1,3 +1,4 @@
-<footer>
-    <h1>Footer</h1>
+<footer class=" bg-secondary-subtle  p-3 text-center text-primary">
+
+    <h2>Powered by Booltrain</h2>
 </footer>

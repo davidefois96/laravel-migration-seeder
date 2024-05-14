@@ -17,6 +17,9 @@ return new class extends Migration
 
             $table->boolean('in_orario')->after('numero_carrozze');
             $table->boolean('cancellato')->after('in_orario');
+            $table->string('slug',50);
+
+
         });
     }
 
@@ -30,6 +33,9 @@ return new class extends Migration
 
             $table->dropColumn('in_orario');
             $table->dropColumn('cancellato');
+            $table->dropColumn('slug');
+
+
 
         });
     }
